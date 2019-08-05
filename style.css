@@ -10,6 +10,9 @@ body {
 h1, p {
     background-color: #ebebeb;
     color: #777;
+    padding-top: 10px;
+    padding-bottom: 10px ;
+    margin: 10px;
 }
 
 #outline {
@@ -32,17 +35,19 @@ h1, p {
 
 .section {
     float: left;
-    margin: 20px 20px 30px 0px;
-    width: 50%;
+    margin: 10px 10px 20px 0px;
+    width: 495px;
 }
 
 .article {
     background-color: #777;
     color: #ebebeb;
+    padding: 10px;
 }
 
 .aside {
     float: left;
-    margin: 20px;
-    width: 25%;
+    margin: 10px;
+    width: 19%;
+    height: 198px;
 }
