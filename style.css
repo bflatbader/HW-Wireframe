@@ -1,0 +1,42 @@
+body {
+    background-color: #777;
+    color: #777;
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+    width: 960px;
+    font-size: 18px;
+    text-align: center;
+}
+
+h1, p {
+    background-color: #ebebeb;
+    color: #777;
+}
+
+#outline {
+    width: 800px;
+    text-align: center;
+    display: inline-block;
+}
+
+.container {
+    background-color: #ebebeb;
+    padding: 30px;
+}
+
+.bars {
+    margin-bottom: 10px;
+}
+
+.section {
+    margin: 20px 20px 20px 0px;
+    width: 495px;
+}
+
+.article {
+    background-color: #777;
+    color: #ebebeb;
+}
+
+.aside {
+
+}
